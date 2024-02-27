@@ -10,3 +10,7 @@ Inasmuch as the central research element is the development of the CHEER Computa
 
 Use the sidebar to navigate between sections.
 
+
+
+
+This documentation is implemented using [docisfy](https://docsify.js.org/)
