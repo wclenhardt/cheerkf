@@ -1,8 +1,9 @@
 * [Home](/)
 * [What Stuff](01-what-stuff.md)
+  * [Code](code.md) 
 * [Where](where.md)
 * [How](03-managing-stuff.md)
-* [Citations, Papers, and Presos](04-citations-papers-presentations.md)
+  * [Citations, Papers, and Presos](04-citations-papers-presentations.md)
 * [Onboarding](onboarding-info.md)
 * [Offboarding](offboarding-info.md)
 * Research Thrusts
