@@ -1,6 +1,6 @@
 # What Stuff?
 
-This chapter is intended to present a simple list of relevant stuff for CHEER team members.  The stuff are resources, objects, content groupings that the project team has identified as helpful to keep track of.
+This section is intended to present an overview list of relevant "knowledge objects", the stuff of CHEER work.  The stuff are resources, objects, content groupings that the project team has identified as important to keep track.
 
 ## Why keep a list?
 
@@ -13,13 +13,11 @@ The goal is to have a cross-project understanding of things that are important t
 * Make project life easier
 
 ## What is on the list?
-* Team Directory
-* Team Organization
-* File Management
-* Data Management
-* Code Management
+
+The most basic items on the list are:
+* Data
+* Code
+* Presentations
 * Publications
 * Procedures and Checklists
-* Words
-* and?
-
+* Meeting agendas / notes
