@@ -1,4 +1,4 @@
-# Managing Science-y Stuff
+# How to Manage Stuff
 
 Each research thrust will be responsible for managing the relevant research outputs in alignment with the overall CHEER knowledge management strategy.
 
